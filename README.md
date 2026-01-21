@@ -1,1 +1,2 @@
-# experimental-near-field-sar-mmWave-imaging-toolbox
+## experimental-near-field-sar-mmWave-imaging-toolbox
+In this repository, we develop an open-source near-field mmWave MIMO-SAR imaging toolbox in MATLAB, implementing the complete measurement and processing pipeline used in our prototyped experimental imaging testbed (see the reference below). The toolbox enables users to (i) control the motion stage and TI mmWave radar (mmWave Studio/DCA1000) for automated data acquisition, and (ii) reconstruct high-resolution near-field SAR images from the captured raw ADC measurements using MATLAB-based processing and imaging algorithms.
