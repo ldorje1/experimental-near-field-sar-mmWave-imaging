@@ -31,10 +31,12 @@ choose:
 1. the dataset name
 2. the reconstruction algorithm
 
-#### Acknowledgments
-I learned a lot from [Dr. Muhammet Emin Yanik](https://scholar.google.com/citations?user=5-FDAmAAAAAJ&hl=en), whose work and research have been very helpful in shaping my understanding of near-field SAR and millimeter-wave imaging.
-
-
 #### Dataset availability 
 Note: Raw SAR data is not included in this repository due to GitHub size limits. Please email me at ldorje1@binghamton.edu if you need access to the dataset.
+
+
+
+*** 
+#### Acknowledgments
+I learned a lot from [Dr. Muhammet Emin Yanik](https://scholar.google.com/citations?user=5-FDAmAAAAAJ&hl=en), whose work and research have been very helpful in shaping my understanding of near-field SAR and millimeter-wave imaging.
 
