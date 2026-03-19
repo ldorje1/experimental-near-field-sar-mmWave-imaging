@@ -67,7 +67,7 @@ ar1.LvdsClkConfig(1, 1)
 ar1.LVDSLaneConfig(0, 1, 1, 0, 0, 1, 0, 0)
 
 -- Sensor Configuration Tab
-ar1.ProfileConfig(0, 77, 7, 4.66, 56.9, 0, 0, 0, 0, 0, 0, 70.295, 0, 256, 5000, 0, 0, 30) -- yanik 2
+ar1.ProfileConfig(0, 77, 7, 4.66, 56.9, 0, 0, 0, 0, 0, 0, 70.295, 0, 256, 5000, 0, 0, 30)
 ar1.ChirpConfig(0, 0, 0, 0, 0, 0, 0, 1, 0, 0)
 ar1.DisableTestSource(0)
 ar1.FrameConfig(0, 0, 1, 1, 50, 0, 0, 1)
