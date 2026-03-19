@@ -3,7 +3,18 @@ This repository provides code for near-field millimeter-wave imaging based on an
 
 ***
 
-### experimental test bed
+### Experimental test bed
 <p align="center">
   <img src="figures/test_bed.png" alt="Experimental testbed" width="300">
+</p>
+
+*** 
+<h2>Example SAR Images</h2>
+
+<p align="center">
+  <img src="figures/sar_image_bandw.png" alt="SAR black and white image" width="500">
+</p>
+
+<p align="center">
+  <img src="figures/sar_image_color.png" alt="SAR color image" width="500">
 </p>
