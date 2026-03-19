@@ -5,7 +5,7 @@ This repository provides code for near-field millimeter-wave imaging based on an
 
 ### Our experimental test bed
 <p align="center">
-  <img src="figures/test_bed.png" alt="Experimental testbed" width="400">
+  <img src="figures/test_bed.png" alt="Experimental testbed" width="500">
 </p>
 
 *** 
@@ -15,5 +15,5 @@ This repository provides code for near-field millimeter-wave imaging based on an
 </p>
 
 <p align="center">
-  <img src="figures/sar_image_color.png" alt="SAR color image" width="500">
+  <img src="figures/sar_image_color.png" alt="SAR color image" width="300">
 </p>
