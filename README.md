@@ -11,9 +11,9 @@ This repository provides code for near-field millimeter-wave imaging based on an
 *** 
 ### Example SAR Images
 <p align="center">
-  <img src="figures/sar_image_bandw.png" alt="SAR black and white image" width="500">
+  <img src="figures/sar_image_bandw.png" alt="SAR black and white image" width="400">
 </p>
 
 <p align="center">
-  <img src="figures/sar_image_color.png" alt="SAR color image" width="300">
+  <img src="figures/sar_image_color.png" alt="SAR color image" width="400">
 </p>
