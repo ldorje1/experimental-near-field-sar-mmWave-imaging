@@ -3,13 +3,13 @@ This repository provides code for near-field millimeter-wave imaging based on an
 
 ***
 
-### Our experimental test bed
+##### Our experimental test bed
 <p align="center">
   <img src="figures/test_bed.png" alt="Experimental testbed" width="500">
 </p>
 
 *** 
-### Example SAR Images
+##### Example SAR Images
 <p align="center">
   <img src="figures/sar_image_bandw.png" alt="SAR black and white image" width="400">
 </p>
@@ -20,16 +20,16 @@ This repository provides code for near-field millimeter-wave imaging based on an
 
 *** 
 
-### SAR image reconstruction using classical and DNN based algorithms
+##### SAR image reconstruction using classical and DNN based algorithms
 <p align="center">
   <img src="figures/sar_image_diff_algo.png" alt="Different algorithm comparison" width="500">
 </p>
 
-### Generate sar images 
+##### Generate sar images 
 Run `generate_sar_image.m` to reconstruct a SAR image from the experimental raw data.  
 choose:
 1. the dataset name
 2. the reconstruction algorithm
 
-### Acknowledgments
+##### Acknowledgments
 I learned a lot from [Dr. Muhammet Emin Yanik](https://scholar.google.com/citations?user=5-FDAmAAAAAJ&hl=en), whose work and research have been very helpful in shaping my understanding of near-field SAR and millimeter-wave imaging.
