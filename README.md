@@ -3,9 +3,9 @@ This repository provides code for near-field millimeter-wave imaging based on an
 
 ***
 
-### Experimental test bed
+### Our experimental test bed
 <p align="center">
-  <img src="figures/test_bed.png" alt="Experimental testbed" width="300">
+  <img src="figures/test_bed.png" alt="Experimental testbed" width="400">
 </p>
 
 *** 
