@@ -24,3 +24,9 @@ This repository provides code for near-field millimeter-wave imaging based on an
 <p align="center">
   <img src="figures/sar_image_diff_algo.png" alt="Different algorithm comparison" width="500">
 </p>
+
+### Generate images 
+Run `generate_sar_image.m` to reconstruct a SAR image from the experimental raw data.  
+Users only need to choose:
+1. the dataset name
+2. the reconstruction algorithm (`MFA`, `RMA`, `BPA`, or `LIA`)
